@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodBank.Domain", "BloodBank.Domain\BloodBank.Domain.csproj", "{DFBCC918-5E18-4F56-A210-3D650D216C99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodBank.DAL", "BloodBank.DAL\BloodBank.DAL.csproj", "{14CA2DB5-B268-4693-B953-CD081F6B9E15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodBank.Service", "BloodBank.Service\BloodBank.Service.csproj", "{C24C084F-208F-4DAC-8193-CADF8D226160}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodBank.API", "BloodBank.API\BloodBank.API.csproj", "{4E4041A0-799F-43EB-B755-C1B2026D2ABC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B412A531-3EC1-4DA6-BF26-5D821C674468}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBank.UnitTests", "BloodBank.UnitTests\BloodBank.UnitTests.csproj", "{77C1ED25-7DD6-43A0-A1C4-162B7EB2454F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFBCC918-5E18-4F56-A210-3D650D216C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBCC918-5E18-4F56-A210-3D650D216C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBCC918-5E18-4F56-A210-3D650D216C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBCC918-5E18-4F56-A210-3D650D216C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CA2DB5-B268-4693-B953-CD081F6B9E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CA2DB5-B268-4693-B953-CD081F6B9E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CA2DB5-B268-4693-B953-CD081F6B9E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CA2DB5-B268-4693-B953-CD081F6B9E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24C084F-208F-4DAC-8193-CADF8D226160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24C084F-208F-4DAC-8193-CADF8D226160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24C084F-208F-4DAC-8193-CADF8D226160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24C084F-208F-4DAC-8193-CADF8D226160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4041A0-799F-43EB-B755-C1B2026D2ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4041A0-799F-43EB-B755-C1B2026D2ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4041A0-799F-43EB-B755-C1B2026D2ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4041A0-799F-43EB-B755-C1B2026D2ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C1ED25-7DD6-43A0-A1C4-162B7EB2454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C1ED25-7DD6-43A0-A1C4-162B7EB2454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C1ED25-7DD6-43A0-A1C4-162B7EB2454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C1ED25-7DD6-43A0-A1C4-162B7EB2454F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DDB7B0E-E1E1-4A26-B50D-5A1521CBF4EC}
+	EndGlobalSection
+EndGlobal

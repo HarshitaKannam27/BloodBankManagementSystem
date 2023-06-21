@@ -1,0 +1,70 @@
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.deps.json
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.runtimeconfig.json
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\refint\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\OneDrive_2023-05-31\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\ref\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.deps.json
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.runtimeconfig.json
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\refint\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\BloodBankProject\OneDrive_2023-05-31\BloodBank (1)\BloodBankManagementSystem\BloodBank.Domain\obj\Debug\net6.0\ref\BloodBank.Domain.dll
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.deps.json
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.runtimeconfig.json
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\refint\BloodBank.Domain.dll
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\BBMs\BloodBank.Domain\obj\Debug\net6.0\ref\BloodBank.Domain.dll
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.deps.json
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.runtimeconfig.json
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.AssemblyReference.cache
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfo.cs
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\refint\BloodBank.Domain.dll
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.genruntimeconfig.cache
+C:\Users\Anand Singh\Downloads\BBMs\BloodBank.Domain\obj\Debug\net6.0\ref\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.deps.json
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.runtimeconfig.json
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\bin\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\refint\BloodBank.Domain.dll
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.pdb
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\BloodBank.Domain.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\BBMs\BBMs\BloodBank.Domain\obj\Debug\net6.0\ref\BloodBank.Domain.dll
